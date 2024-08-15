@@ -1,0 +1,133 @@
+Query,Intent
+Give me the air quality data for Austin on July 23rd ,QUERY_HISTORICAL_DATA
+Find out the pollution levels in Memphis on August 27th ,QUERY_HISTORICAL_DATA
+What was the air quality in New Orleans on September 14th ,QUERY_HISTORICAL_DATA
+Provide the AQI history for Milwaukee on October 11th ,QUERY_HISTORICAL_DATA
+Check the air quality in Baltimore on November 19th ,QUERY_HISTORICAL_DATA
+Get the pollution levels for Sacramento on December 4th ,QUERY_HISTORICAL_DATA
+Tell me about the air quality in Salt Lake City on January 7th, QUERY_HISTORICAL_DATA
+What was the AQI in Cincinnati on February 18th ,QUERY_HISTORICAL_DATA
+Can you provide the air quality index for Los Angeles last weekend?,QUERY_HISTORICAL_DATA
+What was the AQI in New York City yesterday at 3 PM?,QUERY_HISTORICAL_DATA
+Show me the pollution levels in Paris last month.,QUERY_HISTORICAL_DATA
+How was the air quality in Tokyo in March?,QUERY_HISTORICAL_DATA
+Give me the historical air quality for Sydney last year.,QUERY_HISTORICAL_DATA
+What was the air quality in London at 9 AM on July 15th?,QUERY_HISTORICAL_DATA
+Tell me the AQI in Chicago on August 1st at noon.,QUERY_HISTORICAL_DATA
+What were the pollution levels in Los Angeles last week?,QUERY_HISTORICAL_DATA
+Show me the air quality data for New York on January 1st.,QUERY_HISTORICAL_DATA
+How was the air quality in San Francisco last night?,QUERY_HISTORICAL_DATA
+Provide the AQI for Tokyo on February 5th.,QUERY_HISTORICAL_DATA
+What was the air quality like in Paris last Thursday?,QUERY_HISTORICAL_DATA
+Tell me the AQI in Sydney on December 25th.,QUERY_HISTORICAL_DATA
+Show me the pollution levels in Berlin last Wednesday.,QUERY_HISTORICAL_DATA
+How was the air quality in Chicago two days ago?,QUERY_HISTORICAL_DATA
+Can you provide the AQI for Los Angeles on January 20th?,QUERY_HISTORICAL_DATA
+What was the air quality in New York on November 10th at 5 PM?,QUERY_HISTORICAL_DATA
+Tell me the pollution levels in Tokyo on August 18th.,QUERY_HISTORICAL_DATA
+Give me the air quality index for London last month.,QUERY_HISTORICAL_DATA
+What was the AQI in San Francisco last Friday?,QUERY_HISTORICAL_DATA
+How was the air quality in Miami last weekend?,QUERY_HISTORICAL_DATA
+Provide the AQI for Chicago last Tuesday.,QUERY_HISTORICAL_DATA
+Show me the air quality data for Sydney on July 1st at noon.,QUERY_HISTORICAL_DATA
+What was the air quality like in Berlin last Monday?,QUERY_HISTORICAL_DATA
+Tell me the pollution levels in Los Angeles last night at 9 PM.,QUERY_HISTORICAL_DATA
+Can you show me the AQI in Paris two weeks ago?,QUERY_HISTORICAL_DATA
+What were the pollution levels in Tokyo last week?,QUERY_HISTORICAL_DATA
+Give me the air quality index for London last year.,QUERY_HISTORICAL_DATA
+What was the AQI in Chicago on April 15th?,QUERY_HISTORICAL_DATA
+How was the air quality in New York on June 25th?,QUERY_HISTORICAL_DATA
+
+
+Show me the heatmap for New York.,VIEW_HEATMAPS
+Display the heatmap for Los Angeles.,VIEW_HEATMAPS
+Can I see a visual heatmap of AQI for San Francisco?,VIEW_HEATMAPS
+Show the pollution heatmap for Chicago.,VIEW_HEATMAPS
+Display a heatmap for Miami.,VIEW_HEATMAPS
+Give me the heatmap of air pollution for Paris.,VIEW_HEATMAPS
+Show me the heatmap for Tokyo.,VIEW_HEATMAPS
+Can you display a heatmap of AQI for London?,VIEW_HEATMAPS
+Show the air pollution heatmap for Beijing.,VIEW_HEATMAPS
+Display a visual heatmap for Sydney.,VIEW_HEATMAPS
+Give me the AQI heatmap for Berlin.,VIEW_HEATMAPS
+Show me the heatmap for Toronto.,VIEW_HEATMAPS
+Can you provide a heatmap of pollution in Rome?,VIEW_HEATMAPS
+Display the heatmap for Delhi.,VIEW_HEATMAPS
+Show me the pollution heatmap for Mumbai.,VIEW_HEATMAPS
+Give me a visual heatmap of AQI for Houston.,VIEW_HEATMAPS
+Show me the heatmap for Vancouver.,VIEW_HEATMAPS
+Display a pollution heatmap for Madrid.,VIEW_HEATMAPS
+Can I see the heatmap for Shanghai?,VIEW_HEATMAPS
+Show me the air pollution heatmap for Los Angeles.,VIEW_HEATMAPS
+Display the AQI heatmap for San Diego.,VIEW_HEATMAPS
+Give me a heatmap of air quality in Boston.,VIEW_HEATMAPS
+Show me the heatmap for Melbourne.,VIEW_HEATMAPS
+Display a pollution heatmap for Johannesburg.,VIEW_HEATMAPS
+Can you show me the heatmap for Hong Kong?,VIEW_HEATMAPS
+Give me the AQI heatmap for Buenos Aires.,VIEW_HEATMAPS
+Show the air pollution heatmap for Seoul.,VIEW_HEATMAPS
+Display the heatmap for Mexico City.,VIEW_HEATMAPS
+Show me the pollution heatmap for Bangkok.,VIEW_HEATMAPS
+Can I get a heatmap of air quality in Moscow?,VIEW_HEATMAPS
+Display a heatmap of AQI for Dubai.,VIEW_HEATMAPS
+Show the air pollution heatmap for Cairo.,VIEW_HEATMAPS
+Give me the heatmap for Rio de Janeiro.,VIEW_HEATMAPS
+Can you display a pollution heatmap for Sao Paulo?,VIEW_HEATMAPS
+Show me the AQI heatmap for Karachi.,VIEW_HEATMAPS
+Display the heatmap for Manila.,VIEW_HEATMAPS
+Give me a visual heatmap of pollution in Los Angeles.,VIEW_HEATMAPS
+Show the heatmap for Sydney.,VIEW_HEATMAPS
+Display a heatmap of air pollution in New York.,VIEW_HEATMAPS
+Can you show me the heatmap for Madrid?,VIEW_HEATMAPS
+Give me the AQI heatmap for Singapore.,VIEW_HEATMAPS
+Show the air pollution heatmap for Dubai.,VIEW_HEATMAPS
+Display the heatmap for Nairobi.,VIEW_HEATMAPS
+Give me a heatmap of air quality in Lima.,VIEW_HEATMAPS
+Show me the pollution heatmap for Kuala Lumpur.,VIEW_HEATMAPS
+Display a heatmap of AQI in Santiago.,VIEW_HEATMAPS
+Can you provide the heatmap for Buenos Aires?,VIEW_HEATMAPS
+Show me the air pollution heatmap for Jakarta.,VIEW_HEATMAPS
+Give me the AQI heatmap for Athens.,VIEW_HEATMAPS
+
+
+
+What's the air quality in San Francisco as of right now?,CHECK_CURRENT_CONDITIONS
+Tell me the current AQI for New York City today.,CHECK_CURRENT_CONDITIONS
+How's the air quality in Chicago at this very moment?,CHECK_CURRENT_CONDITIONS
+What is the present air quality index in Los Angeles?,CHECK_CURRENT_CONDITIONS
+Give me the current pollution levels in London.,CHECK_CURRENT_CONDITIONS
+What's the air quality like in Paris right now?,CHECK_CURRENT_CONDITIONS
+Can you update me on the AQI in Tokyo this morning?,CHECK_CURRENT_CONDITIONS
+How's the air quality in Miami today?,CHECK_CURRENT_CONDITIONS
+Tell me the air quality levels in Berlin at this hour.,CHECK_CURRENT_CONDITIONS
+What's the pollution index in Sydney at this time?,CHECK_CURRENT_CONDITIONS
+Give me the current AQI for Mumbai this afternoon.,CHECK_CURRENT_CONDITIONS
+What's the air quality like in Houston as of today?,CHECK_CURRENT_CONDITIONS
+Tell me the current air quality in Vancouver.,CHECK_CURRENT_CONDITIONS
+How is the air quality in Beijing today?,CHECK_CURRENT_CONDITIONS
+What's the air quality index in Rome right now?,CHECK_CURRENT_CONDITIONS
+Can you provide the current pollution levels for Madrid?,CHECK_CURRENT_CONDITIONS
+What's the present air quality in Seoul?,CHECK_CURRENT_CONDITIONS
+How's the air quality in Delhi at this time?,CHECK_CURRENT_CONDITIONS
+Tell me the current AQI in Chicago this evening.,CHECK_CURRENT_CONDITIONS
+What is the air quality in San Francisco this morning?,CHECK_CURRENT_CONDITIONS
+What's the air quality index for Boston right now?,CHECK_CURRENT_CONDITIONS
+How's the pollution in Seattle this evening?,CHECK_CURRENT_CONDITIONS
+Tell me the air quality in Phoenix at this moment.,CHECK_CURRENT_CONDITIONS
+Can you give me the current AQI for Philadelphia?,CHECK_CURRENT_CONDITIONS
+What's the air quality like in Atlanta today?,CHECK_CURRENT_CONDITIONS
+Provide the current pollution index for Dallas.,CHECK_CURRENT_CONDITIONS
+What's the air quality in San Diego this afternoon?,CHECK_CURRENT_CONDITIONS
+How's the air quality in Denver right now?,CHECK_CURRENT_CONDITIONS
+Give me the present AQI for San Jose.,CHECK_CURRENT_CONDITIONS
+What is the air quality like in Las Vegas today?,CHECK_CURRENT_CONDITIONS
+Tell me the current air quality in Austin.,CHECK_CURRENT_CONDITIONS
+How's the air quality in Portland right now?,CHECK_CURRENT_CONDITIONS
+What's the pollution level in Orlando at this moment?,CHECK_CURRENT_CONDITIONS
+Can you update me on the AQI in Minneapolis this morning?,CHECK_CURRENT_CONDITIONS
+What's the air quality like in Baltimore at this time?,CHECK_CURRENT_CONDITIONS
+Provide the current air quality index for Tampa.,CHECK_CURRENT_CONDITIONS
+How's the air quality in Charlotte today?,CHECK_CURRENT_CONDITIONS
+What's the pollution index in New Orleans right now?,CHECK_CURRENT_CONDITIONS
+Tell me the current air quality in St. Louis.,CHECK_CURRENT_CONDITIONS
+What's the air quality like in Salt Lake City at this hour?,CHECK_CURRENT_CONDITIONS
