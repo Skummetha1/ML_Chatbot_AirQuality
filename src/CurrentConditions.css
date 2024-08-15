@@ -1,0 +1,128 @@
+
+.endpoint {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #ffffff;
+    width: 100%;
+  }
+  
+ h2{
+    font-size: 60px;
+    color: rgb(97, 151, 209);
+    margin-bottom: -10px;
+ }
+
+  #description {
+    margin-bottom: 30px;
+    font-size: 17px;
+    width: 100%;
+    font-weight: 100;
+  }
+  
+
+ 
+  #location{
+    
+    margin-left: 10%;
+    margin-right: 10%;
+    font-weight: bold;
+    font-size: 40px;
+    color: rgb(154, 169, 207)
+   
+  }
+
+
+  .aqi {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+    margin-bottom: 50px;
+    margin-left: 60px;
+  }
+  
+  
+  .aqi h3 {
+    margin-bottom: 30px;
+    text-align: left; 
+    font-size: 25px;
+    margin-left: 2%;
+    
+    
+  }
+  
+  .airquality-images-container {
+    display: flex;
+    justify-content: space-between; 
+    width: 100%;
+  }
+  
+  .airquality-image {
+    width: 50%; 
+    margin-right: 5px;
+    margin-left: 5px;
+  }
+  
+  
+  .healthrecommendations {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+    margin-bottom: 50px;
+    margin-left: 60px;
+    
+  }
+
+  .healthrecommendations-images-container{
+    display: flex;
+    justify-content: space-between; 
+    width: 100%;
+  }
+  
+  .healthrecommendations h3 {
+    margin-bottom: 30px;
+    text-align: left; 
+    font-size: 25px;
+    margin-left: 2%;
+  }
+
+  .healthrecommendations-image{
+    width: 60%; 
+    margin-right: 5%;
+    margin-left: 5px;
+  }
+
+  .leftsidehealth{
+    margin-left: 5%;
+    margin-right: 0%;
+    
+  }
+
+  #groups{
+    text-align: justify;
+    margin-right: 80%;
+    font-weight: bold;
+    font-size: 40px;
+    color: rgb(154, 169, 207)
+  }
+  
+ 
+  .dominantpollutant {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+    margin-bottom: 50px;
+    margin-left: 60px;
+  }
+  
+  .dominantpollutant h3 {
+    margin-bottom: 30px;
+    text-align: left; 
+    font-size: 25px;
+    margin-left: 2%;
+  }
